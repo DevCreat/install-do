@@ -2,6 +2,7 @@
 #
 # 
 #
+echo "WELCOME TO KEREP DIGITAL PEDIA"
 echo "Pilih titit yang ingin di install"
 echo "	1) Windows 2019(Default)"
 echo "  2) Windows 2016"
